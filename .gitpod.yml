@@ -11,4 +11,4 @@ ports:
 additionalRepositories:
   - url: https://github.com/gitpod-io/website
 
-workspaceLocation: workspace/main.code-workspace
+# workspaceLocation: workspace/main.code-workspace
